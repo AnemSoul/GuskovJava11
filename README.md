@@ -1,4 +1,4 @@
-# QA Automation Task – Java Implementation
+# Guskov Java 11 | QA Automation Task – Java Implementation
 
 ## Project Description
 This is a simple Java console application developed for a QA Automation task.  
